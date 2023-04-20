@@ -4,7 +4,7 @@ import '../styles.css'
 
 const LandingPage = () => {
   return (
-    <div className="landing-page">
+    <div className="flex-container">
       <div className="white"><h1></h1></div>
       <div className="pink">
         <div className="btn-container">
