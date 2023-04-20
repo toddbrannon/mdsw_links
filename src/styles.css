@@ -78,12 +78,14 @@ html, body {
 .white {
   order: 1;
   height: 40vh;
+  width: 100vw;
   flex: none
 }
 
 .pink {
   order: 2;
   height: 60vh;
+  width: 100vh;
   /* background-size: cover;
   background-position: center; */
 }
