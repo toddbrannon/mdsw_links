@@ -85,7 +85,7 @@ html, body {
 .pink {
   order: 2;
   height: 60vh;
-  width: 100vh;
+  width: 100vw;
   /* background-size: cover;
   background-position: center; */
 }
